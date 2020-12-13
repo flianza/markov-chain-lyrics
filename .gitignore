@@ -2,3 +2,6 @@ __pycache__/
 .vscode/
 env/
 secrets.py
+data/
+data_old/
+.ipynb_checkpoints/
